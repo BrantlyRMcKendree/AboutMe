@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games, space, science, art, photography, and animals.
 - 🌱 I’m currently learning some scraping methods and working on small programs for myself after college.
 - 💞️ I’m looking to become a software developer in any of the languages. I know a little about many of them. I worked through C++, C#, Java, HTML with CSS, and Python.
-- Ive developed in Visual Studio, Eclipse, Sublime Text, adn Android Studio. 
+- Ive developed in Visual Studio, Eclipse, Sublime Text, and Android Studio. 
 - 📫 How to reach me - brantly.mckendree@gmail.com 
 
 <!---
